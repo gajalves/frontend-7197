@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todos-ae718": {
+      "hosting": {
+        "Todo": [
+          "todos-ae718"
+        ]
+      }
+    }
+  }
+}
